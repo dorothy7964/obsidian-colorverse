@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "사용법/git 명령어.md",
+                "file": "TODO/CHECK.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "59a2ea0bc3b98dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "사용법/git 명령어.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,12 +171,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9362a9129484b88b",
+  "active": "59a2ea0bc3b98dc7",
   "lastOpenFiles": [
-    "TODO/Daily/2024-06-01.md",
+    "TODO/GIT  테스트.md",
     "TODO/CHECK.md",
-    "TODO/Daily/2024-06-06.md",
     "TODO/사용법.md",
+    "사용법/git 명령어.md",
+    "TODO/Daily/2024-06-01.md",
+    "TODO/Daily/2024-06-06.md",
     "사용법/Tasks 플러그인 사용법.md",
     "TODO/Monthly/2024-06.md",
     "TODO/Weekly/2024-W22.md",
@@ -174,7 +189,6 @@
     "TODO/Weekly",
     "TODO/Daily",
     "TODO",
-    "사용법/git 명령어.md",
     "사용법/마크다운 사용 방법.md",
     "무제 파일.md",
     "images/Pasted image 20240601043918.png",
