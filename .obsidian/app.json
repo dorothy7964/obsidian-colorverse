@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "spellcheck": false,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "livePreview": false
 }

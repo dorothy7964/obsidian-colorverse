@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbf0cf00c8705237",
+        "id": "7c89169713bfb7a9",
         "type": "tabs",
         "children": [
           {
-            "id": "fd3a895795a40edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "사용법/마크다운 사용 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba598c81da8b2cc7",
+            "id": "9362a9129484b88b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,21 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "7c89169713bfb7a9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9362a9129484b88b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -155,13 +128,21 @@
                 "file": "사용법/git 명령어.md"
               }
             }
+          },
+          {
+            "id": "14d92d2394d7038c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,18 +151,35 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open this year": false,
+      "periodic-notes:Open this month": false,
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "ba598c81da8b2cc7",
+  "active": "9362a9129484b88b",
   "lastOpenFiles": [
+    "TODO/Daily/2024-06-01.md",
+    "TODO/CHECK.md",
+    "TODO/Daily/2024-06-06.md",
+    "TODO/사용법.md",
+    "사용법/Tasks 플러그인 사용법.md",
+    "TODO/Monthly/2024-06.md",
+    "TODO/Weekly/2024-W22.md",
+    "TODO/Daily/2024-06-20.md",
     "사용법/옵시디언 사용법.md",
+    "TODO/Yearly",
+    "TODO/Monthly",
+    "TODO/Weekly",
+    "TODO/Daily",
+    "TODO",
     "사용법/git 명령어.md",
-    "images/Pasted image 20240601043918.png",
     "사용법/마크다운 사용 방법.md",
     "무제 파일.md",
-    "사용법",
+    "images/Pasted image 20240601043918.png",
     "images/Pasted image 20240601043743.png",
+    "사용법",
     "Welcome.md",
     "images"
   ]
