@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "3f0891b2269e6052",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf0cf00c8705237",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3a895795a40edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "사용법/마크다운 사용 방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba598c81da8b2cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "사용법/git 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7c89169713bfb7a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9362a9129484b88b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc79ed624baea5bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e4507882eaaef4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7649e3350c3a6d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d641d9d66f46d24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "604a64a7fa10e77b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7cfcef7c822df063",
+    "type": "split",
+    "children": [
+      {
+        "id": "a021415ba8f0edb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e925cca9e0f1efc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "사용법/git 명령어.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ccff1282721367dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "사용법/git 명령어.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed2f540c4e1b6111",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0cdc3c7d64399ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "사용법/git 명령어.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "ba598c81da8b2cc7",
+  "lastOpenFiles": [
+    "사용법/옵시디언 사용법.md",
+    "사용법/git 명령어.md",
+    "images/Pasted image 20240601043918.png",
+    "사용법/마크다운 사용 방법.md",
+    "무제 파일.md",
+    "사용법",
+    "images/Pasted image 20240601043743.png",
+    "Welcome.md",
+    "images"
+  ]
+}
